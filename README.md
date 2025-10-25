@@ -1,2 +1,2 @@
 # Roseria
-✨ An multi propose Discord bot for Moderation, Fun and Automations made with native/official Discord.js lib!
+✨ Sou uma bot de Discord! Feita coma biblioteca nativa do Discord.js, na versão V14!
